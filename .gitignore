@@ -1,0 +1,15 @@
+.scannerwork
+.nyc_output
+.tmp/*
+!.tmp/.gitkeep
+.vscode/
+coverage/*
+!coverage/.gitkeep
+node_modules/
+api-builds
+logs/*
+!logs/.gitkeep
+.env
+*.log
+*secrets.json
+.npmrc
